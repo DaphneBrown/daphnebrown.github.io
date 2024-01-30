@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Henny+Penny&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Henny+Penny&family=Nabla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mali&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    background: #ffa3dd;
+    background-image: linear-gradient(to right, #ff8fc5 , #ffffff);
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 50px;
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 2px #c75000, 0 0 25px #ff7b00, 0 0 5px #ff9500;
+}
+h2 {
+    background: rgba(255,255,255,0.6);
+    border: 2px solid #ffb980;
+    border-radius: 10px;
+    margin: 5px;
+    font-family: 'Aboreto', system-ui;
+}
+
+p {
+    font-family: 'Mali', cursive;
+    text-align: center;
+}
